@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... something really exciting! 
-- 🌱 I’m currently learning ...new skills to become a front-end developer.
+- 🔭 I’m currently working on ... 
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![María José's github stats](https://github-readme-stats.vercel.app/api?username=mariajosegarrido&show_icons=true&theme=dracula)
+
+[! [Langs principales] (https://github-readme-stats.vercel.app/api/top-langs/ ? Nombre de usuario = mariajosegarrido & layout = compact )] 
