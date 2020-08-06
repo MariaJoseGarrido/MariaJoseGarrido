@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![María José's github stats](https://github-readme-stats.vercel.app/api?username=mariajosegarrido&show_icons=true&theme=dracula)
 
-[! [Langs principales] (https://github-readme-stats.vercel.app/api/top-langs/ ? Nombre de usuario = mariajosegarrido & layout = compact )] 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariajosegarrido&layout=compact)]
