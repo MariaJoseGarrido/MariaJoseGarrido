@@ -195,18 +195,18 @@ body {
 #My-Services {
     position: relative;
 }
-.My-Services {
+/* .My-Services {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px,1fr));
     grid-gap: 20px;
-}
+} */
 .My-Services-inner {
-    display: grid;
+    /* display: grid;
     align-items: center;
     justify-items: left;
-    background: #fff;
-    grid-gap: 5px;
+    grid-gap: 5px; */
     text-align: center;
+    background: #fff;
     padding: 20px;
     border-radius: 15px;
 }
@@ -257,6 +257,10 @@ body {
 .open-collection-img {
     display: block;
     width: 100%;
+}
+
+.md-links{
+    width: 350px;
 }
 
 /** section contact-me **/
@@ -361,6 +365,9 @@ body {
 
 .fas{
     color:#313030;
+    font-size: 70px;
+    margin-bottom: 0px;
+    
 }
 
 .fa-moon{
