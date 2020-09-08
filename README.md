@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariajosegarrido&layout=compact)
 
-<h3 align="center"> <A passionate frontend developer from Chile/> </h3>
+<h3 align="center"> A passionate frontend developer from Chile </h3>
 
 ![Let's keep in touch!](./img/IMG_5563.jpg)
 
