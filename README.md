@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![María José's github stats](https://github-readme-stats.vercel.app/api?username=mariajosegarrido&show_icons=true&theme=dracula)
+<p align="center">![María José's github stats](https://github-readme-stats.vercel.app/api?username=mariajosegarrido&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariajosegarrido&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariajosegarrido&layout=compact)</p>
 
 <h3 align="left"> things i work with: </h3>
 
