@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </p>
 
 #### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/mariegarrido">LinkedIn</a>
-- 🎧 Listening to all my favorite on <a href="https://music.apple.com/profile/stellarmariie">Apple Music</a>
-- 📖 Updating my personal readings on <a href="https://www.goodreads.com/stellar_mariie">GoodReads.com</a>
+- 💼  Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/mariegarrido">LinkedIn</a>
+- 🎧  Listening to all my favorite on <a href="https://music.apple.com/profile/stellarmariie">Apple Music</a>
+- 📖  Updating my personal readings on <a href="https://www.goodreads.com/stellar_mariie">GoodReads.com</a>
 
