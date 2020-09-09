@@ -20,10 +20,6 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mariajosegarrido&layout=compact">
 </p>
 
-![María José's github stats](https://github-readme-stats.vercel.app/api?username=mariajosegarrido&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariajosegarrido&layout=compact)
-
 <h3 align="left"> things i work with: </h3>
 
 <p align="left">
