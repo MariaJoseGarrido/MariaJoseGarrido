@@ -20,8 +20,6 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mariajosegarrido&layout=compact">
 </p>
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=mariajosegarrido&hide=javascript,html)]
-
 <h3 align="left"> things i work with: </h3>
 
 <p align="left">
