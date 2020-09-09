@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariajosegarrido&layout=compact)
 
-[Let's keep in touch!](img/IMG_5563.jpg)
-
 <h3 align="left"> things i work with: </h3>
 
 <p align="left">
@@ -37,3 +35,9 @@ Here are some ideas to get you started:
 <img src="https://i.ibb.co/Yj6p14L/jest.png" alt="jest" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </p>
+
+#### Find me around the web 🌎:
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/mariegarrido">LinkedIn</a>
+- 🎧 Listening to all my favorite on <a href="https://music.apple.com/profile/stellarmariie">Apple Music</a>
+- 📖 Updating my personal readings on <a href="https://www.goodreads.com/stellar_mariie">GoodReads.com</a>
+
