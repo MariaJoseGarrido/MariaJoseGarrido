@@ -1,4 +1,5 @@
 ### Hi folks! 👋 I'm Marie!
+<h3 align="center"> A passionate frontend developer from Chile </h3>
 
 <!--
 **MariaJoseGarrido/MariaJoseGarrido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +19,6 @@ Here are some ideas to get you started:
 ![María José's github stats](https://github-readme-stats.vercel.app/api?username=mariajosegarrido&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariajosegarrido&layout=compact)
-
-<h3 align="center"> A passionate frontend developer from Chile </h3>
 
 [Let's keep in touch!](img/IMG_5563.jpg)
 
