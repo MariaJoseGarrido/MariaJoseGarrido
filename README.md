@@ -1,5 +1,5 @@
 ### Hi folks! 👋 I'm Marie!
-<h3 align="center"> A passionate frontend developer from Chile </h3>
+<h3 align="left"> A passionate frontend developer from Chile </h3>
 
 <!--
 **MariaJoseGarrido/MariaJoseGarrido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
