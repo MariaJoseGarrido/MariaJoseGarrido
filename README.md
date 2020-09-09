@@ -1,4 +1,4 @@
-### Hi folks! 👋 I'm Marie!
+### Hi folks! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Marie!
 <h3 align="left"> A passionate frontend developer from Chile </h3>
 
 <!--
