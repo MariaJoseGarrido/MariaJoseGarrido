@@ -35,7 +35,7 @@ body {
 .sidebar {
     width: 300px;
     background: black;
-    opacity: 90%;
+    opacity: 100%;
     position: fixed;
     top: 0;
     left: 0;
@@ -79,7 +79,7 @@ body {
     margin-left: 30px;
 }
 .nav-logo {
-    color: #000;
+    color: #ffff;
     text-decoration: none;
     font-size: 30px;
     font-family: 'Lato', sans-serif;
@@ -156,10 +156,11 @@ body {
     display: grid;
     grid-template-columns: repeat(2, minmax(300px,1fr));
     background: #fff;
-    opacity: 80%;
+    opacity: 100%;
     align-items: center;
     overflow: hidden;
     border-radius: 15px;
+    z-index:1;
 }
 .about-me-inner {
     display: grid;
@@ -168,7 +169,7 @@ body {
     grid-gap: 20px;
     padding: 20px;
 }
-.about-me-img {
+.about-me-img{
     width: 100%;
     display: block;
     z-index: 2;
@@ -234,6 +235,7 @@ body {
     font-size: 25px;
     opacity:60%;
     font-family: 'Lato', sans-serif;
+    margin: 2%;
 
 }
 
@@ -256,7 +258,9 @@ body {
 }
 .open-collection-img {
     display: block;
-    width: 100%;
+    width: 90%;
+    margin-top:20px;
+    border-radius: 5%;
 }
 
 .md-links{
@@ -278,7 +282,7 @@ body {
     align-items: center;
     justify-items: left;
     background: #fff;
-    opacity: 80%;
+    opacity: 100%;
     padding: 20px;
     border-radius: 15px;
 }
@@ -370,12 +374,22 @@ body {
     
 }
 
+.fa-times, .fa-bars{
+    color:rgb(192, 191, 191);
+}
+
+.fa-file-download:hover{
+color:#624772;
+background-color: transparent;
+}
+
 .fa-moon{
     font-size: 30px;
 }
 
 .skillsIcon{
     width: 50px;
+    margin:10px 10px 42px 10px;
 }
 
 /** footer **/
